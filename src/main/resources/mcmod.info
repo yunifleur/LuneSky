@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lunesky",
+  "name": "LuneSky",
+  "description": "Comprehensive SkyBlock Mod",
+  "version": "1.2.4",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/yunifleur/lunesky",
+  "updateUrl": "",
+  "authorList": ["yunifleur"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
